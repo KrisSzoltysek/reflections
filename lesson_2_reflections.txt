@@ -1,4 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-	First tke .git file is being created. There informations about changies will be storied.
+	First the .git file is being created. There informations about changies will be storied.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	You can choose which files you want to include in next commit.
 
