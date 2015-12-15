@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	First tke .git file is being created. There informations about changies will be storied.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	You can choose which files you want to include in next commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Using git add I can choose which file to move to staging area and choose that with logic.
+
