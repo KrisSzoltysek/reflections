@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	First tke .git file is being created. There informations about changies will be storied.
+
