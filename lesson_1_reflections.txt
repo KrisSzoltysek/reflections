@@ -1,0 +1,8 @@
+
+	How might using version control make you more confident to make changes that could break something?
+
+Knowing, that I can always take a step back and see exactly all changies makes me more confident to try new things.
+
+	Now that you have your workspace set up, what do you want to try using Git for?
+
+I would like to start writing all my C project using git.
