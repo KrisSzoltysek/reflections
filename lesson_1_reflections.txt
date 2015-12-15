@@ -1,0 +1,57 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It was not easy to find, probably with more experience I will be able to do it quicker
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I will be able to see changies and go back to point I made mistake
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    I have control to choose the right moment to save changies but the risk is not to forget
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git is used mostly by programers which use multiple files interacting with each other
+
+How can you use the commands git log and git diff to view the history of files?
+
+   I can see dates and specific changes made to the file
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I will know that even if I make mistake I can always go back and fix it
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Keep track of my work and more confidencialy go forward
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    Being able to view all history of changies of my work I can follow my thoughts and see progres
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+     Pros: I can create commit for each logical change with comment; Cons: I have to remember to save changies
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git allows to work on files interacting with each others so is logical that you can trace changies to all of them. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    In gitt logg I can find who made changies and when plus short description what was changed, in gitt diff exact change between versions
+
+How might using version control make you more confident to make changes that could break something?
+
+	Knowing, that I can always take a step back and see exactly all changies makes me more confident to try new things.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	I would like to start writing all my C project using git.
