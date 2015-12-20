@@ -1,6 +1,10 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+<<<<<<< HEAD
 	First the .git file is being created. There informations about changies will be storied.
+=======
+	First tke .git file is being created. There informations about changies will be storied.
+>>>>>>> fdf74fd2d8b8277b67d1d5bb0a5e3cfa3716c270
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
@@ -11,6 +15,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 	Using git add I can choose which file to move to staging area and choose that with logic.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+<<<<<<< HEAD
 	
 	Branches can help to create different version of program or to check new features.
 
@@ -18,3 +23,20 @@ How do the diagrams help you visualize the branch structure?
 	
 	You can clearly see the structure of your program you are working on.
 
+=======
+			
+	Branches can help to create different version of program or to check new features.
+
+How do the diagrams help you visualize the branch structure?
+			
+	You can clearly see the structure of your program you are working on.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	When merging two branches we keep added lines and don't removed lines. We represent those changies in diagram.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Automatic merging is quick and handy when there is no conflicts, manual merging gives the opportunity to make decision what changes to keep or not.
+
+>>>>>>> fdf74fd2d8b8277b67d1d5bb0a5e3cfa3716c270
