@@ -10,3 +10,11 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 	Using git add I can choose which file to move to staging area and choose that with logic.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	
+	Branches can help to create different version of program or to check new features.
+
+How do the diagrams help you visualize the branch structure?
+	
+	You can clearly see the structure of your program you are working on.
+
